@@ -4,7 +4,7 @@ Szkolenia Podstawowy Python
 ---
 ## Instalacja:
 
-- Python : https://www.python.org/downloads/release/python-3123/
+- Python : https://www.python.org/ftp/python/3.12.3/python-3.12.3-amd64.exe
 
 Pamiętajmy, by w wersji dla Windows zaznaczyć podczas instalacji opcję **"Add python.exe. to PATH"**
 
